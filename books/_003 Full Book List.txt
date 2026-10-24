@@ -1,0 +1,251 @@
+001 Wealthing Like Rabits
+002 9 Rules of Wealth You Should Have Learned in School
+003 Psychology and Religion
+004 How to Win Friends and Influence People
+005 12 Rules of Life
+006 A Brief History of Time
+007 Relativity: The General and Special Theories
+008 Sapiens
+009 Ordinary Men
+010 On The Origin of Species
+011 La Principia (Mathematical Principles of Natural Philosophy)
+012 Crime and Punishment
+013 Beyond Good and Evil
+014, 032, 033 The Gulag Archipelago (Volumes 1, 2, 3)
+015 The Brothers Karamazov
+016 The Intelligent Investor
+017 The Birth of Tragedy
+018 The Genealogy of Morals
+019 Guns, Germs and Steel
+020 Maps of Meaning
+021 An Army of One
+022 21 Lessons for the 21st Century
+023 John Adams
+024 Homo Deus
+025 Killing the Competition
+026 Hamelet
+027 Common Ground
+028 The Communist Manifesto
+029 The Republic
+030 What is Life?
+031 Ulysses
+034 Life of Pi
+035 Great Soul
+036 The Kingdom of God is Within You
+037 The Antichrist
+038 Rhetoric
+039 MacBeth
+040 Romeo and Juliet
+041 On the Move
+042 Optics
+043 Treatise on Light
+044 Anna Karenina
+045 War and Peace
+046 Childhood, Boyhood, Youth
+047 A History of the Gypsies of Eastern Europe and Russia
+048 Discipline and Punish
+049 Leaven of Malice
+050 1984
+051 Homage to Catalonia
+052 The Rise and Fall of the British Empire
+053 The World as I see It
+054 Animal Farm
+055 Brave New World
+056 City on Strike
+057 Genghis Khan - Life, Death, and Resurection
+058 Moby Dick
+059 My Inventions and Other Writings (Nikola Tesla)
+060 Warren Buffet's 3 Favorite Books
+061 Tao Te Ching
+062 Team of Rivals
+063 Marxism: An Historical and Critical Study
+064 The Fall of the Roman Empire
+065 The Road to Wigan Pier
+066 The Doors of Perception
+067 Heaven and Hell
+068 Ideologies
+069 Mythology
+070 The Ego and the Id
+071 On Dreams
+072 Notes from Underground
+073 Poor People
+074 The Friend of the Family
+075 The Possessed
+076 A Thread of Grace
+077 Life Together
+078 Black Holes
+079 The Book of Negroes
+080 Sutton
+081 The Russlander
+082 Wolf Hall
+083 The Long Walk
+084 Churchill and Orwell
+085 Gardens of the Moon
+086 Deadhouse Gates
+087 Memories of Ice
+088 Capital (Volume 1)
+089 Capital (Volume 2)
+090 Capital (Volume 3)
+091 The Wealth of Nations
+092 Plutocrats
+093 House of Chains
+094 Midnight Tides
+095 Bonehunters
+096 Caste
+097 Leonardo Da Vinci
+098 Little Women
+099 Pride and Prejudice
+100 12 More Rules for Life
+101 Reapers Gale
+102 Toll of the Hounds
+103 Dust of Dreams
+104 The Crippled God
+105 Twlight of Democracy
+106 Hitler's Stolen Children
+107 Humans: A Brief History of How We Fucked it All Up
+108 Calculus for Engineers
+109 Engineering Mathematical Analysis 3
+110 Linear Algebra
+111 Abstract Algebra
+112 Ishmael
+113 Learn Better Chess Today
+114 The Complete Chess Course
+115 The 5 Love Languages of Men
+116 Society, Ethics, and Technology
+117 Emma
+118 Father Goriot
+119 The Inferno
+120 The Goldfinch
+121 Bring up the Bodies
+122 Humanimal
+123 Ancient Mariner
+124 Making Sense
+125 The Moral Landscape
+126 Thus Spake Zarathustra
+127 Mind and Matter
+128 Blockchain for Dummies
+129 Crytocurrency Mining for Dummies
+130 Beat the Bank
+131 The Adventures of Tom Sawyer
+132 The Adventures of Huckleberry Finn
+133 The Great Gatsby
+134 Critique of Judgement
+135 Critique of Practical Reason
+136 The Tenant of Wildfel Hall
+137 A Gentleman in Moscow
+138 The Undiscovered Self
+139 Modern Man in Search of a Soul
+140 Jane Eyre
+141 Atla of European History
+142 Winnipeg's Historic Exchange
+143 God Sees the Truth, But Waits
+144 A Prisoner in the Caucasus
+145 What Men Live By
+146 A Spark Neglected Burns the House
+147 Two Old Men
+148 Where Love Is, God Is
+149 The Story of Ivan the Fool
+150 Little Girls Wiser Than Men
+151 Ilyas
+152 The Death of Ivan Ilych
+153 The Three Hermits
+154 The Imp and the Crust
+155 How Much Land Does a Man Need?
+156 The Repentant Sinner
+157 The Empty Drum
+158 The Coffee House of Surat
+159 Too Dear!
+160 Esarhaddon, King of Assyria
+161 Work, Death and Sickness
+162 Three Questions
+163 The Man Who Would be King
+164 The Phantom 'Rickshaw
+165 The Maltese Cat
+166 The Strange Ride of Morrowbie Jukes
+167 At the End of the Passage
+168 The Education of Otis Yeere
+169 At the Pit's Mouth
+170 Mary Postgate
+171 They
+172 Warren Buffet: 43 Lessons for Business and Life
+173 Wuthering Heights
+174 Anne Frank: The Diary of a Teenage Girl
+175 August 1914
+176 Pensees
+177 Tarzan of the Apes
+178 Unscientific America
+179 Frankenstein
+180 Metzengerstein
+181 The Assignation (The Visionary)
+182 Berenice
+183 Morella
+184 King Pest
+185 Shadow: A Parable
+186 Ligeia
+187 The Fall of the House of Usher
+188 William Wilson
+189 The Man of the Crowd
+190 The Oval Portrait
+191 The Masque of the Red Death
+192 The Pit and the Pendulum
+193 The Tell-Tale Heart
+194 The Black Cat
+195 The Premature Burial
+196 The Oblong Box
+197 The Imp and the Perverse
+198 The Cask of Amontillado
+199 Hop-Frog
+200 Our Lives: Canada After 1945
+201 The Mom Test
+202 Web3
+203 The Grapes of Wrath
+204 The Way of All Flesh
+205 The Fractal Geometry of Nature
+206 The Art of War
+207 Those Barren Leaves
+208 Broca's Brain
+209 The Adventures of Alice in Wonderland
+210 Nikola Tesla: Imagination and the Man Who Invented the 20th Century
+211 My Antonia
+212 The Call of the Wild
+213 White Fang
+214 Batard
+215 Moon-Face
+216 Brown Wolf
+217 That Spot
+218 To Build a Fire
+219 The Wager
+220 The Big Print
+221 A Course in Mathematical Logic
+222 Cicero Murder Trials
+223 Shakespeare: The World as Stage
+224 Don Quixote
+225 Nexus
+226 Money
+227 The Awakening
+228 Fanny Hill
+229 The Beautiful and the Damned
+230 One Simple Idea
+231 I am Malala
+232 E=MC^2
+233 David Copperfield
+234 Principles
+235 The Moonstone
+236 Value(s)
+237 Red Notice
+238 To Kill a Mockingbird
+239 The Blind Assassin
+240 The Great Apes
+241 The Rational Optimist
+242 Don't Trade Before Learning These 14 Candlestick Patterns
+243 A Masterclass in Technical Analysis
+244 Good Bones and Simple Murders
+245 A Mercy
+246 What is Intelligence?
+247 Nostromo
+248 Heart of Darkness
+249 My Dirty Little Bitcoin Secret
+250 Biomimicry
+251 Unbroken
+252 Into the Wild
+253 Quantum Leaps
